@@ -9,9 +9,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      max-attempts: 99 # Mencoba ulang hingga 3 kali jika gagal
     steps:
       - uses: actions/checkout@v4
       - name: Set up Node.js 22
