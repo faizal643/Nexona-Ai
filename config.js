@@ -4,7 +4,7 @@ const config = {
     AutoUpdate          : 'on', // on atau off
     API_KEY             : '106b5502070c46fe1e40d142', // APIKEY ANDA AMBIL DI autoresbot.com
     GEMINI_API_KEY      : 'AIzaSyAisqsjV0u7bO2Rt4t4OfuBnYlxwpEzIlQ',
-    phone_number_bot    : '6287889174471',
+    phone_number_bot    : '628988219165',
     type_connection     : 'pairing', // qr atau pairing
     bot_destination     : 'private', // group , private, both
     name_bot            : 'Nexona Ai',
