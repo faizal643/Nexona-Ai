@@ -2,7 +2,7 @@ const moment= require("moment-timezone")
 
 const config = {
     AutoUpdate          : 'on', // on atau off
-    API_KEY             : 'APIKEY_GRATIS', // APIKEY ANDA AMBIL DI autoresbot.com
+    API_KEY             : 'e9ebaae16454479d95c1b2ea11814ed1', // APIKEY ANDA AMBIL DI autoresbot.com
     GEMINI_API_KEY      : 'AIzaSyAisqsjV0u7bO2Rt4t4OfuBnYlxwpEzIlQ',
     phone_number_bot    : '628988219165',
     type_connection     : 'pairing', // qr atau pairing
