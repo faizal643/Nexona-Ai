@@ -3,19 +3,19 @@ const moment= require("moment-timezone")
 const config = {
     AutoUpdate          : 'on', // on atau off
     API_KEY             : 'e9ebaae16454479d95c1b2ea11814ed1', // APIKEY ANDA AMBIL DI autoresbot.com
-    GEMINI_API_KEY      : 'AIzaSyAisqsjV0u7bO2Rt4t4OfuBnYlxwpEzIlQ',
+    GEMINI_API_KEY      : 'AIzaSyCEYDnys2Pg2-GrKpwLAvyWH3giMMxCHJQ',
     phone_number_bot    : '628988219165',
     type_connection     : 'pairing', // qr atau pairing
     bot_destination     : 'private', // group , private, both
-    name_bot            : 'Nexona Ai',
+    name_bot            : 'Xenovia AI',
     owner_name          : 'Feyy',
     owner_number        : '6289601671818',
-    owner_website       : 'nexonagroup.com',
+    owner_website       : 'Xenovia.com',
     version             : '2.0.0',
     rate_limit          : 3000, // 3 detik
     total_limit         : 9999, // limit perhari -  user biasa || kalo premium unlimited
-    sticker_packname    : 'Nexona Ai',
-    sticker_author      : `Nexona Infinity`,
+    sticker_packname    : 'Xenovia AI',
+    sticker_author      : `Xenovia Infinity`,
     notification        : {
         limit           : 'Hai kak, Limit harian anda sudah habis silakan tunggu besok ya atau berlangganan premium untuk menikmati fitur tanpa limit',
         reset           : 'Dialog berhasil dihapus. Semua percakapan kita telah di-reset dan siap memulai dari awal!',
